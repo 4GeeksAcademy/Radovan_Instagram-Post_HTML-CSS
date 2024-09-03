@@ -1,0 +1,48 @@
+.body {
+    background-color: black;
+    justify-content: center;
+    
+}
+
+.post {
+    margin: 0 auto;
+    background-color: white;
+	width: 500px;
+    box-shadow: 3px 5px 20px #312f2f;
+}
+.header {
+    display: flex;
+    padding: 10px;
+}
+
+.html-icon {
+    font-size: 25px;
+    padding-top: 18px;
+}
+
+h6 {
+    height: 10px;
+}
+
+.post-header {
+padding: 10px;
+}
+
+.icons {
+    font-size: 30px;
+}
+
+.fa-bookmark {
+    position: relative;
+    left: 330px;
+}
+
+.fa-ellipsis-vertical {
+    position: relative;
+    left: 330px;
+    font-size: 30px;
+}
+
+.header-letter {
+    padding: 10px;
+}
